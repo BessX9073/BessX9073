@@ -1,4 +1,5 @@
-## Call me Kitachan
+🅲🅰🅻🅻 🅼🅴 🅺🅸🆃🅰🅲🅷🅰🅽
+
 ![](https://media.tenor.com/rp-AM5mlU0wAAAAd/uma-musume-kitasan-black.gif)
 
 ---
