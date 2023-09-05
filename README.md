@@ -1,16 +1,17 @@
-### Hi there 👋
+## Call me Kitachan
+![](https://media.tenor.com/rp-AM5mlU0wAAAAd/uma-musume-kitasan-black.gif)
 
-<!--
-**BessX9073/BessX9073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table>
+    <td>
+        <img src="https://media.tenor.com/_vIoBfgGBFsAAAAC/kitsan-black-uma-musume.gif" style="height: 20rem">
+    </td>
+    <td>
+        <strong>
+            キ<br>タ<br>サ<br>ン<br>ブ<br>ラ<br>ッ<br>ク
+        </strong>
+    </td>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
