@@ -15,4 +15,6 @@
     </td>
 </table>
 
+[![BessX9073's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BessX9073&theme=onedark&show_icons=true&hide_border=false&layout=compact)](https://github.com/BessX9073)
+
 <!-- yoloooooooo -->
