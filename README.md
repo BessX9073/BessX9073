@@ -3,7 +3,7 @@
 ![](https://media.tenor.com/rp-AM5mlU0wAAAAd/uma-musume-kitasan-black.gif)
 
 ---
- [![BessX9073's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BessX9073&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+ ![BessX9073's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BessX9073&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  
 <table>
     <td>
